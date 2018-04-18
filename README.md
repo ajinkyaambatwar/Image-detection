@@ -11,5 +11,7 @@ Then neural network is trained to get the weights of each node.
 DataGenerator is used to create more data from available data to train model better. The datagen implementation is taken from keras documentation file for image processing.
 The link for the same is https://keras.io/preprocessing/image/.
 The entire architecture looks like this-
+![picture](https://github.com/ajinkyaambatwar/Image-detection/blob/master/Screenshot%20from%202018-04-18%2021-58-03.png)
 
-
+## About deeply connected network
+The deeply conneceted network consists of input layer of of nodeswhich is equal to number of node obtained after flattening and 1 output layer to determine the probabilty of the image to be a cat or dog(classification problem). The hidden layer consists of 128 nodes. 
