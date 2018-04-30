@@ -1,7 +1,7 @@
 # Image-detection
 
 The Repository consists of modelling Of CNN architecture 
-using keras with tensirfloe background.
+using keras with tensorflow background.
 We are dealing woth image classification as cat or dog from given input image.
 
 ## About Dataset
